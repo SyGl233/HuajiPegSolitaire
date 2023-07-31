@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_new_game"
+        android:title="新游戏"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/show_records"
+        android:title="名人堂"
+        app:showAsAction="ifRoom"
+    />
+
+
+</menu>
